@@ -6,7 +6,7 @@ A CLI tool to manage and discover tech events in Addis Ababa.
 
 List all events:
 
-go run . list
+'go run . list'
 
 
 Add an event:
